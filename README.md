@@ -25,8 +25,7 @@
 | The3DP      |   ✔    |
 | WordFind    |   ✔    |
 | Panim       |   ✔    |
-| AnimOne     |
-
+| AnimOne     |   ✔    |
 
 
 ### NOTE: This repo is still a work under progress
