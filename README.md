@@ -20,16 +20,16 @@
 | Repository  | Status | Comments |
 |-------------|--------|----------|
 | [**Status**](https://github.com/The3DP/Status) (this repository) | ✔ | -|
-| [**Arduino_Base**](https://github.com/The3DP/Arduino_Base) |   ✔    |  *Be sure to complete repo by 11/8/2025* |        |
+| [**Arduino_Base**](https://github.com/The3DP/Arduino_Base) |   ✔    |  *Complete repo by 11/8/2025* |        |
 | [**VerseData**](https://github.com/The3DP/VerseData.github.io)   |   ✔    |    -     |
 | [**The3DP**](https://github.com/The3DP/The3DP)      |   ✔    |    -     |
-| [**WordFind**](https://github.com/The3DP/WordFind.github.io)    |   ✔    |  *Be sure to enhance README.md by 11/7/2025* |     |
+| [**WordFind**](https://github.com/The3DP/WordFind.github.io)    |   ✔    |  *Enhance README.md by 11/7/2025* |     |
 | [**Panim**](https://github.com/The3DP/Panim)       |   ✔    |    -     |
 | [**AnimOne**](https://github.com/The3DP/AnimOne)     |   ✔    |    -     |
 | [**AnimDuo**](https://github.com/The3DP/AnimDuo)     |   ✔    |    -     |
 | [**AnimTrice**](https://github.com/The3DP/AnimTrice)   |   ✔    |    -     |
 | [**Quatro**](https://github.com/The3DP/Quatro)      |   ✔    |    -     |
-| [**TransGator**](https://github.com/The3DP/TransGator)  |   x    | *Be sure to complete repo by 11/8/2025* |
+| [**TransGator**](https://github.com/The3DP/TransGator)  |   x    | *Complete repo by 11/8/2025* |
 
 
 ### NOTE: This chart is still a work in progress
