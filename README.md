@@ -21,7 +21,7 @@
 |-------------|--------|
 | Arduino_Base|   ✔    |
 | VerseData   |   ✔    |
-|
 
 
-### NOTE: This repo is still a work under progress/
+
+### NOTE: This repo is still a work under progress
