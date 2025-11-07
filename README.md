@@ -19,17 +19,17 @@
 
 | Repository  | Status | Comments |
 |-------------|--------|----------|
-| Status (this repository) | ✔ | -|
-| Arduino_Base|   ✔    |  *Be sure to complete repo by 11/8/2025* |        |
-| VerseData   |   ✔    |    -     |
-| The3DP      |   ✔    |    -     |
-| WordFind    |   ✔    |  *Be sure to enhance README.md by 11/7/2025* |     |
-| Panim       |   ✔    |    -     |
-| AnimOne     |   ✔    |    -     |
-| AnimDuo     |   ✔    |    -     |
-| AnimTrice   |   ✔    |    -     |
-| Quatro      |   ✔    |    -     |
-| TransGator  |   x    | *Be sure to complete repo by 11/8/2025* |
+| [**Status**](https://github.com/The3DP/Status) (this repository) | ✔ | -|
+| [**Arduino_Base**](https://github.com/The3DP/Arduino_Base) |   ✔    |  *Be sure to complete repo by 11/8/2025* |        |
+| [**VerseData**]   |   ✔    |    -     |
+| [**The3DP**]      |   ✔    |    -     |
+| [**WordFind**]    |   ✔    |  *Be sure to enhance README.md by 11/7/2025* |     |
+| [**Panim**]       |   ✔    |    -     |
+| [**AnimOne**]     |   ✔    |    -     |
+| [**AnimDuo**]     |   ✔    |    -     |
+| [**AnimTrice**]   |   ✔    |    -     |
+| [**Quatro**]      |   ✔    |    -     |
+| [**TransGator**]  |   x    | *Be sure to complete repo by 11/8/2025* |
 
 
 ### NOTE: This chart is still a work in progress
