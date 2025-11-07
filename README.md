@@ -23,7 +23,7 @@
 | [**Arduino_Base**](https://github.com/The3DP/Arduino_Base) |   ✔    |  *Be sure to complete repo by 11/8/2025* |        |
 | [**VerseData**](https://github.com/The3DP/VerseData)   |   ✔    |    -     |
 | [**The3DP**](https://github.com/The3DP/The3DP)      |   ✔    |    -     |
-| [**WordFind**](https://github.com/The3DP/WordFind)    |   ✔    |  *Be sure to enhance README.md by 11/7/2025* |     |
+| [**WordFind**](https://github.com/The3DP/WordFind.github.io)    |   ✔    |  *Be sure to enhance README.md by 11/7/2025* |     |
 | [**Panim**](https://github.com/The3DP/Panim)       |   ✔    |    -     |
 | [**AnimOne**](https://github.com/The3DP/AnimOne)     |   ✔    |    -     |
 | [**AnimDuo**](https://github.com/The3DP/AnimDuo)     |   ✔    |    -     |
