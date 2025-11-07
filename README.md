@@ -20,16 +20,16 @@
 | Repository  | Status | Comments |
 |-------------|--------|----------|
 | Status (this repository) | ✔ | -|
-| Arduino_Base|   ✔    |  Be sure to complete repo by 11/8/2025 |        |
+| Arduino_Base|   ✔    |  *Be sure to complete repo by 11/8/2025* |        |
 | VerseData   |   ✔    |    -     |
 | The3DP      |   ✔    |    -     |
-| WordFind    |   ✔    |  Be sure to enhance README.md by 11/7/2025 |     |
+| WordFind    |   ✔    |  *Be sure to enhance README.md by 11/7/2025* |     |
 | Panim       |   ✔    |    -     |
 | AnimOne     |   ✔    |    -     |
 | AnimDuo     |   ✔    |    -     |
 | AnimTrice   |   ✔    |    -     |
 | Quatro      |   ✔    |    -     |
-| TransGator  |   x    | Be sure to complete repo by 11/8/2025 |
+| TransGator  |   x    | *Be sure to complete repo by 11/8/2025* |
 
 
 ### NOTE: This chart is still a work in progress
