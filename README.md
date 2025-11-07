@@ -19,7 +19,7 @@
 
 | Repository  | Status | Comments |
 |-------------|--------|----------|
-| Status (this repository) | ✔ |  |
+| Status (this repository) | ✔ | -|
 | Arduino_Base|   ✔    |  Be sure to complete repo by 11/8/2025 |        |
 | VerseData   |   ✔    |    -     |
 | The3DP      |   ✔    |    -     |
