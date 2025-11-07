@@ -26,6 +26,10 @@
 | WordFind    |   ✔    |
 | Panim       |   ✔    |
 | AnimOne     |   ✔    |
+| AnimDuo     |   ✔    |
+| AnimTrice   |   ✔    |
+| Quatro      |        |
+
 
 
 ### NOTE: This repo is still a work under progress
