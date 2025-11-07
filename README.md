@@ -28,7 +28,7 @@
 | AnimOne     |   ✔    |
 | AnimDuo     |   ✔    |
 | AnimTrice   |   ✔    |
-| Quatro      |        |
+| Quatro      |   ✔    |
 
 
 
