@@ -14,3 +14,14 @@
 | 🧮 Heatmap       | Matrix of values with color intensity    |
 | ⬛ Treemap        | Hierarchical proportions with rectangles |
 | 🕸️ Spider Chart | Like radar chart                         |
+
+# Status of all repositories:
+
+| Repository  | Status |
+|-------------|--------|
+| Arduino_Base|   ✔    |
+| VerseData   |   ✔    |
+|
+
+
+### NOTE: This repo is still a work under progress/
