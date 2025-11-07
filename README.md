@@ -1,9 +1,16 @@
-# What is Chartings?
-Chartings is a package that includes all 
-types of different charts which you can 
-C & P (copy and paste) in a README.md
+# List of all chart types I can use:
 
-# NOTES: 
-This repo is only ![20% Complete](https://img.shields.io/badge/-20%25-darkred) 
-complete, and will expect many updates in the near-future. 
-Please stay patient. Thank You!
+| Chart Type       | Description                              |
+| ---------------- | ---------------------------------------- |
+| 📊 Bar Chart     | Compare quantities across categories     |
+| 📈 Line Chart    | Show trends over time                    |
+| 🥧 Pie Chart     | Proportional breakdown of a whole        |
+| 📉 Area Chart    | Like line chart but with filled areas    |
+| 📦 Box Plot      | Distribution summary (median, IQR, etc)  |
+| 📍 Scatter Plot  | Correlation between two variables        |
+| 📚 Histogram     | Distribution of a single variable        |
+| ⏱️ Gantt Chart   | Project timelines and durations          |
+| 📐 Radar Chart   | Multi-variable comparisons               |
+| 🧮 Heatmap       | Matrix of values with color intensity    |
+| ⬛ Treemap        | Hierarchical proportions with rectangles |
+| 🕸️ Spider Chart | Like radar chart                         |
