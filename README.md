@@ -15,12 +15,17 @@
 | ⬛ Treemap        | Hierarchical proportions with rectangles |
 | 🕸️ Spider Chart | Like radar chart                         |
 
-# Status of all repositories:
+# Status of top repositories:
 
 | Repository  | Status |
 |-------------|--------|
+| Status (this repository) | ✔ |
 | Arduino_Base|   ✔    |
 | VerseData   |   ✔    |
+| The3DP      |   ✔    |
+| WordFind    |   ✔    |
+| Panim       |   ✔    |
+| AnimOne     |
 
 
 
