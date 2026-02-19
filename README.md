@@ -30,3 +30,4 @@
 | [**AnimTrice**](https://github.com/The3DP/AnimTrice)   |   ✔    |    -     |
 | [**Quatro**](https://github.com/The3DP/Quatro)      |   ✔    |    -     |
 | [**TransGator**](https://github.com/The3DP/TransGator)  |   ❌    | - |
+| [**VerseData**](https://github.com/The3DP/VerseData.github.io) |  ✔  | Repository README.md is upated daily |
