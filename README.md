@@ -29,4 +29,4 @@
 | [**AnimDuo**](https://github.com/The3DP/AnimDuo)     |   ✔    |    -     |
 | [**AnimTrice**](https://github.com/The3DP/AnimTrice)   |   ✔    |    -     |
 | [**Quatro**](https://github.com/The3DP/Quatro)      |   ✔    |    -     |
-| [**TransGator**](https://github.com/The3DP/TransGator)  |   x    | - |
+| [**TransGator**](https://github.com/The3DP/TransGator)  |   ❌    | - |
