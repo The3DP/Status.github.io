@@ -31,3 +31,4 @@
 | [**Quatro**](https://github.com/The3DP/Quatro)      |   ✔    |    -     |
 | [**TransGator**](https://github.com/The3DP/TransGator)  |   ❌    | - |
 | [**VerseData**](https://github.com/The3DP/VerseData.github.io) |  ✔  | Repository README.md is updated daily |
+| [**Code-Samples**](https://github.com/The3DP/Code-Samples) |  ✔  | - |
