@@ -13,23 +13,20 @@
 | 📐 Radar Chart   | Multi-variable comparisons               |
 | 🧮 Heatmap       | Matrix of values with color intensity    |
 | ⬛ Treemap        | Hierarchical proportions with rectangles |
-| 🕸️ Spider Chart | Like radar chart                         |
+| 🕸️ Spider Chart | Similiar to a radar chart                  |
 
 # Status of top repositories:
 
 | Repository  | Status | Comments |
 |-------------|--------|----------|
 | [**Status**](https://github.com/The3DP/Status) (this repository) | ✔ | -|
-| [**Arduino_Base**](https://github.com/The3DP/Arduino_Base) |   ✔    |  *Complete repo by 11/8/2025* |        |
+| [**Arduino_Base**](https://github.com/The3DP/Arduino_Base) |   ✔    |  - |        |
 | [**VerseData**](https://github.com/The3DP/VerseData.github.io)   |   ✔    |    -     |
 | [**The3DP**](https://github.com/The3DP/The3DP)      |   ✔    |    -     |
-| [**WordFind**](https://github.com/The3DP/WordFind.github.io)    |   ✔    |  *Enhance README.md by 11/7/2025* |     |
+| [**WordFind**](https://github.com/The3DP/WordFind.github.io)    |   ✔    |  - |     |
 | [**Panim**](https://github.com/The3DP/Panim)       |   ✔    |    -     |
 | [**AnimOne**](https://github.com/The3DP/AnimOne)     |   ✔    |    -     |
 | [**AnimDuo**](https://github.com/The3DP/AnimDuo)     |   ✔    |    -     |
 | [**AnimTrice**](https://github.com/The3DP/AnimTrice)   |   ✔    |    -     |
 | [**Quatro**](https://github.com/The3DP/Quatro)      |   ✔    |    -     |
-| [**TransGator**](https://github.com/The3DP/TransGator)  |   x    | *Complete repo by 11/8/2025* |
-
-
-### NOTE: This chart is still a work in progress
+| [**TransGator**](https://github.com/The3DP/TransGator)  |   x    | - |
